@@ -1,8 +1,6 @@
 import React, { Component } from 'react';
-import Button from 'antd/es/button';
 import './App.css';
-import { Layout, Menu, Breadcrumb,Space, Card,Row, Col, Divider   } from 'antd';
-import { UploadOutlined, UserOutlined, VideoCameraOutlined } from '@ant-design/icons';
+import { Layout} from 'antd';
 
 const { Header, Footer, Sider, Content } = Layout;
 
